@@ -15,3 +15,6 @@ Kampus: ITB
 NIM: 19622117
 
 ID GDSC: 220020093
+
+## Keterangan Tambahan
+Directory 'css' dan 'webfonts' hanya pelengkap agar bisa memakai logo dari Font Awesome.
